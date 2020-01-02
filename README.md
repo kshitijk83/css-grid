@@ -2,7 +2,7 @@
 A page web page made by css-grid layouts.
 
 # Demo
-<img src="ss/1.png" width="100%">
+<img src="ss/1.jpg" width="100%">
 
 # steps: 
 1. npm install
