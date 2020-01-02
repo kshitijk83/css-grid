@@ -1,5 +1,9 @@
 # css-grid
-i learned it along the course.. its page web page made by css-grid layouts.
-steps: 
+A page web page made by css-grid layouts.
+
+# Demo
+<img src="ss/1.png" width="100%">
+
+# steps: 
 1. npm install
 2. npm start
